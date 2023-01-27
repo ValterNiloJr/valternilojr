@@ -1,5 +1,5 @@
-### Hi there, I'm Valter 👋
+### Hi there, I'm Valter!👋
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ValterNiloJr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValterNiloJr&layout=compact)](https://github.com/ValterNiloJr/github-readme-stats)
